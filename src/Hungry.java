@@ -13,6 +13,7 @@ public class Hungry {
 	
 	int answer = input.nextInt();
 	
+	
 	if (answer == 1)
 	{
 		System.out.println ("Dont forget your diet! Did you have breakfast today? (1 = yes, 0 = no)");
